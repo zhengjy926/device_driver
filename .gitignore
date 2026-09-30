@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Keil uVision local debug options and generated packs
+*.uvoptx
+**/DebugConfig/
+**/RTE/
