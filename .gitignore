@@ -56,5 +56,8 @@ dkms.conf
 
 # Keil uVision local debug options and generated packs
 *.uvoptx
+*.uvguix.*
 **/DebugConfig/
 **/RTE/
+**/Objects/
+**/Listings/
